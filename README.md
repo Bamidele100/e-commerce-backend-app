@@ -6,9 +6,13 @@ The task here is about E-commerce platforms like WooCommerce and Shopify given a
 
 
 ## Built With
+
 Javascript
+
 NodeJS
+
 Sequelize/MYSQL2
+
 Nodemon
 
 
@@ -17,5 +21,5 @@ Nodemon
 ![alt text](./Assets/image1.png)
 ![alt text](./Assets/image2.png)
 
-## Deployed URL and Repository
+## Deployed Repository
 https://github.com/Bamidele100/e-commerce-backend-app.git
